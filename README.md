@@ -1,8 +1,8 @@
 # Project Overview
 
-Global ultra-luxury dealer network, where performance depends on:
+Global ultra-luxury dealer network(Modeled for Aston Martin-style analytics), where performance depends on:
 
-Retail sales effectiveness
+* Retail sales effectiveness
 
 * Aftersales & workshop efficiency
 
